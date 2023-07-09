@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #001C30;
+}
+
+.home {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+
+.link {
+  text-decoration: none;
+  color: #DC0000;
+}
+
+
+
+.div-edu-in {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  height:300px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+  background-color: #DC0000;
+}
+
+.nameSchool {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.details {
+  color: #B9EDDD;
+  font-size: 20px;
+}
+
+.res-btn {
+  width: 150px;
+  height: 50px;
+  border-radius: 12px;
+  padding: 6px 10px;
+  cursor: pointer;
+  font-size: 18px;
+  color: #454545;
+}
+
+.res-btn:hover {
+  color:red;
+  background-color: #B9EDDD;
+}
+
+.img-school {
+  height: 120px;
+  width: 120px;
+  border-radius: 50%;
+  border: 2px solid salmon;
+}
+
+.course {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  margin-top: 90px;
+}
+
+
+.footer {
+  margin-top: 60px;
+}
+
+
+
+
+
+
+

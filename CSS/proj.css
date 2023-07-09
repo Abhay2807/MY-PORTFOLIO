@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #AA77FF;
+}
+
+.home {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 15px;
+}
+
+.link {
+  text-decoration: none;
+  color: #16FF00;
+}
+
+.hor1,.hor2 {
+  width: 90%;
+  border: 1px solid orange;
+  height: 1px;
+}
+
+.div-project {
+  flex-direction: column;
+  display: flex;
+  background-color: #b085f7;
+  height: 600px;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bolder;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #EB1D36;
+  text-decoration: underline dashed darkblue;
+}
+
+.row1 {
+  display: flex;
+  flex-direction: row;
+  
+}
+
+.title-info {
+  width: 900px;
+  flex-wrap: wrap;
+  margin-right: 120px;
+  font-size: 18px;
+  text-align: justify;
+  color: #2A0944;
+  border: none;
+
+}
+
+.row1Inner {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.img-proj {
+  height: 450px;
+  width: 300px;
+  border: 2px solid #E14D2A;
+  cursor: pointer;
+}
+
+.info{
+  padding: 15px 30px;
+}
+
+.tools {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.tech,.github {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+
+.tools-inner {
+  flex-direction: column;
+  display: flex;
+  margin-right: 250px;
+}
+
+.techimg {
+  flex-direction: row;
+  display: flex;
+}
+
+.proj3-tools-inner {
+  margin-right: 150px;
+}
+
+.tools-inner3 {
+  flex-direction: column;
+  display: flex;
+  margin-right: 150px;
+}
+
+
+.skill-img {
+  height: 90px;
+  width: 90px;
+  cursor: pointer;
+  border-radius: 50%;
+  border: 2px solid black;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+
+.project3,.project2 {
+  height: 500px;
+}
+
+.img-proj2 {
+  height: 350px;
+  width: 300px;
+}
+
+.img-proj3 {
+  width: 300px;
+  height: 340px;
+}
+.project3 {
+  margin-bottom: 50px;
+}
+
+.title-info-proj4 {
+  width: 600px;
+}
+
+.tools-inner4 {
+  flex-direction: column;
+  display: flex;
+  margin-right: 40px;
+}
+
+.img-proj4 {
+  width: 600px;
+  height: 350px;
+}
+
+.project4 {
+  height: 600px;
+}
