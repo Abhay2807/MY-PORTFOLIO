@@ -1,4 +1,4 @@
-# PORTFOLIO--HTML-CSS-JS
+# PORTFOLIO 
 
 This is my Portfolio website which I have created using HTML,CSS & JavaScript.
 It is a multipage (webPages) Website.
@@ -9,16 +9,23 @@ You can open different links by clicking on the buttons ,images and text's to se
 Resume, Certificates, Projects , Results.
 
 This PortFolio website is hosted on github.
-Website Link: 
-![Screenshot 2023-07-09 163634](https://github.com/Abhay2807/PORTFOLIO--HTML-CSS-JS-/assets/76277587/a9e2f383-311a-4d5f-a051-678a5e228b6a)
+Website Link: https://abhay2807.github.io/MY-PORTFOLIO/
 
-![image](https://github.com/Abhay2807/PORTFOLIO--HTML-CSS-JS-/assets/76277587/7893efab-f8c9-442b-a8f4-f3c541a9ede9)
+![Screenshot 2023-07-09 163634](https://github.com/Abhay2807/MY-PORTFOLIO/assets/76277587/47f5dc2c-6f43-46ae-8864-f4c8d24a9343)
+![Screenshot 2023-07-09 163700](https://github.com/Abhay2807/MY-PORTFOLIO/assets/76277587/5f41f78e-54bc-43b8-9142-2360e8188892)
+![Screenshot 2023-07-09 163717](https://github.com/Abhay2807/MY-PORTFOLIO/assets/76277587/ed8ca0fe-3754-43e7-a1cb-96d38b338030)
 
-![Screenshot 2023-07-09 163717](https://github.com/Abhay2807/PORTFOLIO--HTML-CSS-JS-/assets/76277587/ff4a9bf0-9612-457c-bc98-4b9aae5e5902)
+![Screenshot 2023-07-09 163736](https://github.com/Abhay2807/MY-PORTFOLIO/assets/76277587/69122841-4dd0-4f14-a54a-372f78e533ab)
 
-![Screenshot 2023-07-09 163736](https://github.com/Abhay2807/PORTFOLIO--HTML-CSS-JS-/assets/76277587/dfd59c37-f055-46ae-b97c-dc21e9dfa223)
+![Screenshot 2023-07-09 163751](https://github.com/Abhay2807/MY-PORTFOLIO/assets/76277587/52ecb551-36bc-4aa2-9f95-180211cee6e7)
+![Screenshot 2023-07-10 002608](https://github.com/Abhay2807/MY-PORTFOLIO/assets/76277587/f3517124-31e5-4839-bb4b-3e50f6d79735)
 
-![Screenshot 2023-07-09 163751](https://github.com/Abhay2807/PORTFOLIO--HTML-CSS-JS-/assets/76277587/079f0bd9-ae84-4c5a-9d08-77ca4c8be5f2)
+
+
+
+
+
+
 
 
 
