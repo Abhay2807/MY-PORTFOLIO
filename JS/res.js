@@ -37,8 +37,8 @@ function closeAchieve()
 const htmlText=`
 <h2>Research Paper : " Smart Homes: From Conception to Reality with IoT".</h2>
 <p>Issued by MANIT BHOPAL, ICET 2023 · Apr 2023</p>
-Certificate for presenting our own research paper on, "IoT Home Automation" in Second International Conference On Innovations in Clean Energy Technologies (ICET-2023) at Energy Centre, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh, India from 8th-10th April 2023.
-Paper is going to get publish in upcoming 2-3 months duration.
+<p>Certificate for presenting our own research paper on, "IoT Home Automation" in Second International Conference On Innovations in Clean Energy Technologies (ICET-2023) at Energy Centre, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh, India from 8th-10th April 2023.
+Paper is going to get publish in upcoming 2-3 months duration.</p>
 <p>
     <a href="https://drive.google.com/file/d/1xQ5RYOjQtG5MOA3M_FbEy5q__A_1c6gm/view"
     target="_blank" class="link2">Certificate</a>
@@ -46,7 +46,7 @@ Paper is going to get publish in upcoming 2-3 months duration.
 
 <h2>"National Engineering Olympiad".</h2>
 <p>Issued by NEO 5.0 · Feb 2022</p>
-AIR -52 in the Competition.
+<p>AIR -52 in the Competition.</p>
 <p>
     <a href=" https://drive.google.com/file/d/1PAVJmWrOqdqOvj32M-2xb4p9KubL2P3t/view "
     target="_blank" class="link2">Certificate</a>

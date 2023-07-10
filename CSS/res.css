@@ -3,9 +3,9 @@ body {
   padding: 0;
   border: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #1F6E8C;
+  background-color: #212A3E;
+  
 }
-
 
 .home {
   text-align: center;
@@ -14,16 +14,15 @@ body {
   margin-top: 15px;
 }
 
-.link{
-  text-decoration: none;
-  color: #FAF3E3;
+.linkme {
+  text-decoration: underline dashed #F1F6F9;
+  color: #9BA4B5;
 }
 
 .hor1{
   width: 90%;
-  border: 1px solid aqua;
+  border: 1px solid #F1F6F9;
   height: 1px;
-  margin-top: 15px;
 }
 
 .outer {
@@ -33,23 +32,30 @@ body {
 
 .note {
   text-align: center;
-  color: #2a4b50;
+  color: #9BA4B5;
   font-size: 18px;
 }
-
-
 
 
 .resume{
   height: 70px;
   width: 120px;
   border-radius: 30%;
-  background-color: #FC4F00;
+  background-color: #394867;
+  border: 2px solid #F1F6F9;
+  color: #F1F6F9;
   cursor: pointer;
   font-size: 20px;
   padding: 6px 10px;
   border: none;
   font-weight: bold;
+}
+
+
+.resume:hover {
+  background-color: #F1F6F9;
+  color: #394867;
+  border: 2px solid #9BA4B5;
 }
 
 
@@ -61,10 +67,7 @@ body {
   cursor: pointer;
 }
 
-.resume:hover {
-  color:black;
-  background-color: aqua;
-}
+
 
 .ach,.inter {
   display: flex;
@@ -80,29 +83,38 @@ body {
 
 .achieve {
   text-align: center;
-  color: #FC4F00;
   cursor: pointer;
   height: 50px;
   width: 220px;
   border-radius: 10%;
-  background-color: wheat;
   cursor: pointer;
   font-size: 20px;
   padding: 6px 10px;
   border: none;
   font-weight: bold;
+  background-color: #394867;
+  border: 2px solid #F1F6F9;
+  color: #F1F6F9;
 }
 
 .txt-achieve {
   font-size: 18px;
-  color: #001C30;
+  color: #9BA4B5;
   width: 1200px;
   text-align: justify;
 }
 
 .link2 {
   font-weight: bold;
-  color: red;
+  color: #394867;
   text-decoration: none;
   cursor: pointer;
+}
+
+p {
+  color: #F1F6F9;
+}
+
+h3 {
+  color: #F1F6F9;
 }

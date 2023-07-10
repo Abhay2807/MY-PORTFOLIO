@@ -3,7 +3,8 @@ body {
   padding: 0;
   border: border-box;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #4B5D67;
+  background-color: #212A3E;
+  
 }
 
 .home {
@@ -15,18 +16,18 @@ body {
 
 .link {
   text-decoration: none;
-  color: #FAF3E3;
+  color: #9BA4B5;
 }
 
 .hor1{
   width: 90%;
-  border: 1px solid aqua;
+  border: 1px solid #F1F6F9;
   height: 1px;
 }
 
 .workExp {
   margin-top: 30px;
-  background-color: #626c71;
+  background-color: transparent;
   margin-left: 80px;
   margin-right: 80px;
   display: flex;
@@ -41,7 +42,7 @@ body {
 }
 
 .type {
-  color:#FF4949;
+  color:#9BA4B5;
   font-size: 32px;
   font-weight: bolder;
   font-family: Arial, Helvetica, sans-serif;
@@ -49,14 +50,14 @@ body {
 
 .info-text {
   text-align: center;
-  color:#130941;
+  color:#F1F6F9;
   font-size: 18px;
 }
 
 .info-text-in {
   text-align:center;
   font-size: 18px;
-  color:#bfb5e5;
+  color:#F1F6F9;
   margin-right: 60px;
 }
 
@@ -64,8 +65,9 @@ body {
   width: 150px;
   height: 60px;
   border-radius: 30px;
-  background-color: #FF4949;
-  border: 2px solid orange;
+  background-color: #394867;
+  border: 2px solid #F1F6F9;
+  color: #F1F6F9;
   cursor: pointer;
   font-size: 18px;
   padding: 6px 10px;
@@ -73,9 +75,9 @@ body {
 }
 
 .cert:hover {
-  background-color: black;
-  color: aqua;
-  transform: scale(1.3,1.5);
+  background-color: #F1F6F9;
+  color: #394867;
+  border: 2px solid #9BA4B5;
 }
 
 .vardh-img {
@@ -83,21 +85,21 @@ body {
   width: 100px;
   cursor: pointer;
   border-radius: 50%;
-  border: 2px solid orange;
+  border: 2px solid #F1F6F9;
 }
 
 .skill {
   font-size: 22px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
-  color:#FF4949;
+  color:#9BA4B5;
   margin-top: 5px;
 
 }
 
 .skillset {
   font-size: 18px;
-  color:#bfb5e5;
+  color:#F1F6F9;
 
   
 }
